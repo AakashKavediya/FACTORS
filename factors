@@ -1,0 +1,4 @@
+factor=1
+while(factor<number):
+  if (number%factor==0):
+  print(factor,"is a factor of",number)
